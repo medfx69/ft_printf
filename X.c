@@ -6,13 +6,13 @@
 /*   By: mait-aad <mait-aad@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/11 13:42:02 by mait-aad          #+#    #+#             */
-/*   Updated: 2021/12/12 14:03:37 by mait-aad         ###   ########.fr       */
+/*   Updated: 2021/12/13 12:53:10 by mait-aad         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
 
-int	ft_phex(int p)
+int	ft_phex(unsigned int p)
 {
 	static int	i;
 
