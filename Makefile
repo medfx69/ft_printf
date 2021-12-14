@@ -6,7 +6,7 @@
 #    By: mait-aad <mait-aad@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/12/12 16:06:23 by mait-aad          #+#    #+#              #
-#    Updated: 2021/12/12 16:12:24 by mait-aad         ###   ########.fr        #
+#    Updated: 2021/12/13 15:19:21 by mait-aad         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -21,7 +21,6 @@ SRC = c.c\
 	p.c\
 	s.c\
 	X.c\
-	d.c\
 	lx.c\
 	persent.c\
 	u.c
@@ -32,7 +31,6 @@ OBJ = c.o\
 	p.o\
 	s.o\
 	X.o\
-	d.o\
 	lx.o\
 	persent.o\
 	u.o
