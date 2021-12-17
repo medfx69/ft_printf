@@ -13,7 +13,7 @@
 
 NAME=libftprintf.a
 CC=gcc
-CFLAGS=-Wall -Wextra -Werror
+FLAGS=-Wall -Wextra -Werror
 RM=rm -f
 SRC = c.c\
 	ft_printf.c\
